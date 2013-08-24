@@ -14,5 +14,5 @@ with open (xml_file, 'r') as read_file:
 
 number_to_copy = len(url_locs)
 for idx, file_loc in enumerate(url_locs):
-    print "(" + str(idx) + "/" + str(number_to_copy) + ")" + "\t\tPushing " + file_loc + "..."
+    print "(" + str(idx+1) + "/" + str(number_to_copy) + ")" + "\t\tPushing " + file_loc + "..."
     call(["adb","push", file_loc,"/sdcard/Music"])
