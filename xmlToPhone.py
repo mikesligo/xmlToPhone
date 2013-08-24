@@ -12,6 +12,7 @@ with open (xml_file, 'r') as read_file:
         if search is not None:
             url_locs.append(search.group(1))
 
-for i in url_locs:
-    print "Pushing " + i + "..."
-    call(["adb","push",i,"/sdcard/Music"])
+number_to_copy = len(url_locs)
+for idx, file_loc in enumerate(url_locs):
+    print "(" + str(idx) + "/" + str(number_to_copy) + ")" + "\tPushing " + file_loc + "..."
+    call(["adb","push", file_loc,"/sdcard/Music"])
