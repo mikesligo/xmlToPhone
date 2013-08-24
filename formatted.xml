@@ -2,6 +2,14 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
+            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/04_paul_kalkbrenner_-_spitz-auge.mp3</location>
+            <title>Spitz-Auge</title>
+            <creator>Paul Kalkbrenner</creator>
+            <album>GUTEN TAG</album>
+            <duration>318000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
             <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/09. 1991.mp3</location>
             <title>1991</title>
             <creator>Crystal Castles</creator>
@@ -10,136 +18,33 @@
             <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/09 avril 14th.mp3</location>
-            <title>avril 14th</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>126000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/11 Homezone.mp3</location>
-            <title>Homezone</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>128000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/14 hy a scullyas lyf a dhagrow.mp3</location>
-            <title>hy a scullyas lyf a dhagrow</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>135000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/12. Love and Caring.mp3</location>
-            <title>Love and Caring</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (I)</album>
-            <duration>138000</duration>
-            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/01 jynweythek ylow.mp3</location>
-            <title>jynweythek ylow</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>144000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/04 - Affection.mp3</location>
-            <title>Affection</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>157000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/11 - Mercenary.mp3</location>
-            <title>Mercenary</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>159000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/08 Porc #1.mp3</location>
-            <title>Porc #1</title>
-            <creator>Moderat</creator>
-            <album>Moderat</album>
-            <duration>160000</duration>
-            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/02. Alice Practice.mp3</location>
-            <title>Alice Practice</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (I)</album>
-            <duration>161000</duration>
-            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Unreleased Medical Journal/Casio Daisy.mp3</location>
-            <title>Casio Daisy</title>
-            <creator>Gold Panda</creator>
-            <album>Unreleased Medical Journal</album>
-            <duration>168000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/08 Moonlight.mp3</location>
-            <title>Moonlight</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>172000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/05 - Pale Flesh.mp3</location>
-            <title>Pale Flesh</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>179000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Unreleased Medical Journal/Greek Style.mp3</location>
-            <title>Greek Style</title>
-            <creator>Gold Panda</creator>
-            <album>Unreleased Medical Journal</album>
-            <duration>179000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/08 - Transgender.mp3</location>
-            <title>Transgender</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>184000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/01. Untrust Us.mp3</location>
-            <title>Untrust Us</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (I)</album>
-            <duration>186000</duration>
-            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/14 I Am Made of Chalk.mp3</location>
-            <title>I Am Made of Chalk</title>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/12 Not In Love.mp3</location>
+            <title>Not In Love</title>
             <creator>Crystal Castles</creator>
             <album>Crystal Castles (II)</album>
-            <duration>189000</duration>
+            <duration>213000</duration>
         </track>
         <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/02 - Kerosene.mp3</location>
-            <title>Kerosene</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>192000</duration>
+            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/09_paul_kalkbrenner_-_der_buhold.mp3</location>
+            <title>Der Buhold</title>
+            <creator>Paul Kalkbrenner</creator>
+            <album>GUTEN TAG</album>
+            <duration>333000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/06 Phantom pt. II.mp3</location>
+            <title>Phantom pt. II</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>200000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(1997) Daft Punk - Homework/04 - Da Funk.mp3</location>
+            <title>Da Funk</title>
+            <creator>Daft Punk</creator>
+            <album>Homework</album>
+            <duration>330000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
@@ -151,42 +56,63 @@
             <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/05 3 Minutes Of.mp3</location>
-            <title>3 Minutes Of</title>
-            <creator>Moderat</creator>
-            <album>Moderat</album>
-            <duration>197000</duration>
-            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/06 Phantom pt. II.mp3</location>
-            <title>Phantom pt. II</title>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/01 Genesis.mp3</location>
+            <title>Genesis</title>
             <creator>Justice</creator>
             <album>Justice</album>
-            <duration>200000</duration>
+            <duration>235000</duration>
         </track>
         <track>
-            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/04. Matilda (radio edit).mp3</location>
-            <title>Matilda (radio edit)</title>
-            <creator>Parov Stelar</creator>
-            <album>That Swing</album>
-            <duration>202000</duration>
-            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/03. Crimewave (Crystal Castles VS HEALTH).mp3</location>
+            <title>Crimewave (Crystal Castles VS HEALTH)</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (I)</album>
+            <duration>258000</duration>
+            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/02. Love (radio edit) .mp3</location>
-            <title>Love (radio edit)</title>
-            <creator>Parov Stelar</creator>
-            <album>That Swing</album>
-            <duration>205000</duration>
-            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/09 A bang in the void.mp3</location>
+            <title>A bang in the void</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>357000</duration>
+            <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/08 Just Gazin'.mp3</location>
-            <title>Just Gazin'</title>
+            <location>file:///home/mike/Music/Idealism/03 I Want I Want.mp3</location>
+            <title>I Want I Want</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>208000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/10-karma_car-dgn.mp3</location>
+            <title>Karma Car</title>
+            <creator>Booka Shade</creator>
+            <album>The Sun And The Neon Light</album>
+            <duration>257000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Booka Shade/Movements/01-booka_shade-night_falls-emf.mp3</location>
+            <title>Night Falls</title>
+            <creator>Booka Shade</creator>
+            <album>Movements</album>
+            <duration>321000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/06 Reeperbahn.mp3</location>
+            <title>Reeperbahn</title>
             <creator>Digitalism</creator>
             <album>I Love You, Dude</album>
-            <duration>206000</duration>
+            <duration>231000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/11 - Mercenary.mp3</location>
+            <title>Mercenary</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>159000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
@@ -198,379 +124,11 @@
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/06 - Sad Eyes.mp3</location>
-            <title>Sad Eyes</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (III)</album>
-            <duration>207000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/03 I Want I Want.mp3</location>
-            <title>I Want I Want</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>208000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Bloc Party-Intimacy/05 Trojan Horse.mp3</location>
-            <title>Trojan Horse</title>
-            <creator>Bloc Party</creator>
-            <album>Intimacy</album>
-            <duration>212000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/A2 - Pretentious Friends[Dreamsounds.net].mp3</location>
-            <title>Pretentious Friends</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>212000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/01 Sweet unrest.mp3</location>
-            <title>Sweet unrest</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>213000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/12 Not In Love.mp3</location>
-            <title>Not In Love</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (II)</album>
-            <duration>213000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/05 Forrest Gump.mp3</location>
-            <title>Forrest Gump</title>
-            <creator>Digitalism</creator>
-            <album>I Love You, Dude</album>
-            <duration>213000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/15 Echoes.mp3</location>
-            <title>Echoes</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>219000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/12 One Minute To Midnight.mp3</location>
-            <title>One Minute To Midnight</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>220000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/06. Spider (radio edit).mp3</location>
-            <title>Spider (radio edit)</title>
-            <creator>Parov Stelar</creator>
-            <album>That Swing</album>
-            <duration>220000</duration>
-            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/07 Pogo.mp3</location>
-            <title>Pogo</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>226000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/07. Faith (feat. Odette Dimaio).mp3</location>
-            <title>Faith (feat. Odette Dimaio)</title>
-            <creator>Parov Stelar</creator>
-            <album>That Swing</album>
-            <duration>227000</duration>
-            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/03 Pulsewidth.mp3</location>
-            <title>Pulsewidth</title>
-            <creator>Aphex Twin</creator>
-            <album>Selected Ambient Works 85-92</album>
-            <duration>228000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/01 Magnets.mp3</location>
-            <title>Magnets</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>230000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/06 Reeperbahn.mp3</location>
-            <title>Reeperbahn</title>
-            <creator>Digitalism</creator>
-            <album>I Love You, Dude</album>
-            <duration>231000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/10 Your house is my world.mp3</location>
-            <title>Your house is my world</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>235000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/01 Genesis.mp3</location>
-            <title>Genesis</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>235000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/07 Antibiotics.mp3</location>
-            <title>Antibiotics</title>
-            <creator>Digitalism</creator>
-            <album>I Love You, Dude</album>
-            <duration>238000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/B1 - Evil Twin[Dreamsounds.net].mp3</location>
-            <title>Evil Twin</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>239000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/03 D.A.N.C.E.mp3</location>
-            <title>D.A.N.C.E</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>242000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C2 - Grillwalker[Dreamsounds.net].mp3</location>
-            <title>Grillwalker</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>242000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/10. Vanished.mp3</location>
-            <title>Vanished</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (I)</album>
-            <duration>243000</duration>
-            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/08 The Party.mp3</location>
-            <title>The Party</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>243000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/06 - The Brainwasher.mp3</location>
-            <title>The Brainwasher</title>
-            <creator>Daft Punk</creator>
-            <album>Human After All</album>
-            <duration>248000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/06-redemption-dgn.mp3</location>
-            <title>Redemption</title>
-            <creator>Booka Shade</creator>
-            <album>The Sun And The Neon Light</album>
-            <duration>249000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Disclosure - Settle (2013) [LAME-V0]/13 Confess To Me.mp3</location>
-            <title>Confess To Me</title>
-            <creator>Disclosure</creator>
-            <album>Settle</album>
-            <duration>251000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/02. 2000007 (Feat. TTC).mp3</location>
-            <title>2000007 (Feat. TTC)</title>
-            <creator>Modeselektor</creator>
-            <album>Happy Birthday!</album>
-            <duration>251000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/04 Baptism.mp3</location>
-            <title>Baptism</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (II)</album>
-            <duration>252000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/04 - Let In The Light.flac</location>
-            <title>Let In The Light</title>
-            <creator>Moderat</creator>
-            <album>II</album>
-            <duration>255000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/10-karma_car-dgn.mp3</location>
-            <title>Karma Car</title>
-            <creator>Booka Shade</creator>
-            <album>The Sun And The Neon Light</album>
-            <duration>257000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/03. Crimewave (Crystal Castles VS HEALTH).mp3</location>
-            <title>Crimewave (Crystal Castles VS HEALTH)</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (I)</album>
-            <duration>258000</duration>
-            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/10 The Pulse.mp3</location>
-            <title>The Pulse</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>259000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/17. Déboutonner (Feat. Siriusmo).mp3</location>
-            <title>Déboutonner (Feat. Siriusmo)</title>
-            <creator>Modeselektor</creator>
-            <album>Happy Birthday!</album>
-            <duration>259000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Bloc Party-Intimacy/09 Better Than Heaven.mp3</location>
-            <title>Better Than Heaven</title>
-            <creator>Bloc Party</creator>
-            <album>Intimacy</album>
-            <duration>261000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/05 Phantom.mp3</location>
-            <title>Phantom</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>262000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/02 - Bad Kingdom.flac</location>
-            <title>Bad Kingdom</title>
-            <creator>Moderat</creator>
-            <album>II</album>
-            <duration>262000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/07 - Gita.flac</location>
-            <title>Gita</title>
-            <creator>Moderat</creator>
-            <album>II</album>
-            <duration>262000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/10 Nr. 22.mp3</location>
-            <title>Nr. 22</title>
-            <creator>Moderat</creator>
-            <album>Moderat</album>
-            <duration>268000</duration>
-            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/04 Goodbye.mp3</location>
-            <title>Goodbye</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>269000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/08-the_sun_and_the_neon_light-dgn.mp3</location>
-            <title>The Sun And The Neon Light</title>
-            <creator>Booka Shade</creator>
-            <album>The Sun And The Neon Light</album>
-            <duration>269000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/02 Song of Los.mp3</location>
-            <title>Song of Los</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>272000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/02 Rusty Nails.mp3</location>
-            <title>Rusty Nails</title>
-            <creator>Moderat</creator>
-            <album>Moderat</album>
-            <duration>272000</duration>
-            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/05-solo_city-dgn.mp3</location>
-            <title>Solo City</title>
-            <creator>Booka Shade</creator>
-            <album>The Sun And The Neon Light</album>
-            <duration>274000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/08 Violent Dreams.mp3</location>
-            <title>Violent Dreams</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (II)</album>
-            <duration>275000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/05 Candil de la calle.mp3</location>
-            <title>Candil de la calle</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>276000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Mount Kimbie - [2013] Cold Spring Fault Less Youth [MP3 - 320]/1-1.01. Home Recording.mp3</location>
-            <title>Home Recording</title>
-            <creator>Mount Kimbie</creator>
-            <album>Cold Spring Fault Less Youth</album>
-            <duration>277000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Disclosure - Settle (2013) [LAME-V0]/05 White Noise.mp3</location>
-            <title>White Noise</title>
-            <creator>Disclosure</creator>
-            <album>Settle</album>
-            <duration>278000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/05 - Make Love.mp3</location>
-            <title>Make Love</title>
-            <creator>Daft Punk</creator>
-            <album>Human After All</album>
-            <duration>280000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C1 - Berlin[Dreamsounds.net].mp3</location>
-            <title>Berlin</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>283000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/09 - Technologic.mp3</location>
-            <title>Technologic</title>
-            <creator>Daft Punk</creator>
-            <album>Human After All</album>
-            <duration>284000</duration>
+            <location>file:///home/mike/Music/Unreleased Medical Journal/Greek Style.mp3</location>
+            <title>Greek Style</title>
+            <creator>Gold Panda</creator>
+            <album>Unreleased Medical Journal</album>
+            <duration>179000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
@@ -581,103 +139,11 @@
             <duration>284000</duration>
         </track>
         <track>
-            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/13 Intimate.mp3</location>
-            <title>Intimate</title>
-            <creator>Crystal Castles</creator>
-            <album>Crystal Castles (II)</album>
-            <duration>285000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C3 - Green Light Go[Dreamsounds.net].mp3</location>
-            <title>Green Light Go</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>285000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/08 - Television Rules the Nation.mp3</location>
-            <title>Television Rules the Nation</title>
-            <creator>Daft Punk</creator>
-            <album>Human After All</album>
-            <duration>288000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/03 Black water.mp3</location>
-            <title>Black water</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>293000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/04 omgyjya switch7.mp3</location>
-            <title>omgyjya switch7</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>293000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/01 Xtal.mp3</location>
-            <title>Xtal</title>
-            <creator>Aphex Twin</creator>
-            <album>Selected Ambient Works 85-92</album>
-            <duration>294000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/07 Heliosphan.mp3</location>
-            <title>Heliosphan</title>
-            <creator>Aphex Twin</creator>
-            <album>Selected Ambient Works 85-92</album>
-            <duration>294000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/01 - Plague.mp3</location>
-            <title>Plague</title>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/06 - Sad Eyes.mp3</location>
+            <title>Sad Eyes</title>
             <creator>Crystal Castles</creator>
             <album>Crystal Castles (III)</album>
-            <duration>295000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/02 Let There Be Light.mp3</location>
-            <title>Let There Be Light</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>295000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Justice - Justice [V0]/10 Stress.mp3</location>
-            <title>Stress</title>
-            <creator>Justice</creator>
-            <album>Justice</album>
-            <duration>298000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/14 Jupiter Room.mp3</location>
-            <title>Jupiter Room</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>303000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/06 gwely mernans.mp3</location>
-            <title>gwely mernans</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>308000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/04_paul_kalkbrenner_-_spitz-auge.mp3</location>
-            <title>Spitz-Auge</title>
-            <creator>Paul Kalkbrenner</creator>
-            <album>GUTEN TAG</album>
-            <duration>318000</duration>
+            <duration>207000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
@@ -689,6 +155,67 @@
             <image>file:(embedded)</image>
         </track>
         <track>
+            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/06-redemption-dgn.mp3</location>
+            <title>Redemption</title>
+            <creator>Booka Shade</creator>
+            <album>The Sun And The Neon Light</album>
+            <duration>249000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/05 Forrest Gump.mp3</location>
+            <title>Forrest Gump</title>
+            <creator>Digitalism</creator>
+            <album>I Love You, Dude</album>
+            <duration>213000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/05 - Original.mp3</location>
+            <title>Original</title>
+            <creator>Leftfield</creator>
+            <album>Leftism</album>
+            <duration>383000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/04. Matilda (radio edit).mp3</location>
+            <title>Matilda (radio edit)</title>
+            <creator>Parov Stelar</creator>
+            <album>That Swing</album>
+            <duration>202000</duration>
+            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/07 Pogo.mp3</location>
+            <title>Pogo</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>226000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/05 - Milk.flac</location>
+            <title>Milk</title>
+            <creator>Moderat</creator>
+            <album>II</album>
+            <duration>604000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/06 - The Brainwasher.mp3</location>
+            <title>The Brainwasher</title>
+            <creator>Daft Punk</creator>
+            <album>Human After All</album>
+            <duration>248000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/A2 - Pretentious Friends[Dreamsounds.net].mp3</location>
+            <title>Pretentious Friends</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>212000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
             <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/01 - Human After All.mp3</location>
             <title>Human After All</title>
             <creator>Daft Punk</creator>
@@ -697,141 +224,26 @@
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Booka Shade/Movements/01-booka_shade-night_falls-emf.mp3</location>
-            <title>Night Falls</title>
-            <creator>Booka Shade</creator>
-            <album>Movements</album>
-            <duration>321000</duration>
+            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/02 - Afro-Left.mp3</location>
+            <title>Afro-Left</title>
+            <creator>Leftfield</creator>
+            <album>Leftism</album>
+            <duration>454000</duration>
         </track>
         <track>
-            <location>file:///home/mike/Music/Booka Shade/Movements/12-booka_shade-in_white_rooms-emf.mp3</location>
-            <title>In White Rooms</title>
-            <creator>Booka Shade</creator>
-            <album>Movements</album>
-            <duration>325000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/04. Let Your Love Grow (Feat. Paul St. Hillaire).mp3</location>
-            <title>Let Your Love Grow (Feat. Paul St. Hillaire)</title>
-            <creator>Modeselektor</creator>
-            <album>Happy Birthday!</album>
-            <duration>325000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/10 - Damage Done.flac</location>
-            <title>Damage Done</title>
-            <creator>Moderat</creator>
-            <album>II</album>
-            <duration>326000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(1997) Daft Punk - Homework/04 - Da Funk.mp3</location>
-            <title>Da Funk</title>
+            <location>file:///home/mike/Music/Daft Punk/(1997) Daft Punk - Homework/07 - Around the World.mp3</location>
+            <title>Around the World</title>
             <creator>Daft Punk</creator>
             <album>Homework</album>
-            <duration>330000</duration>
+            <duration>430000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/09_paul_kalkbrenner_-_der_buhold.mp3</location>
-            <title>Der Buhold</title>
-            <creator>Paul Kalkbrenner</creator>
-            <album>GUTEN TAG</album>
-            <duration>333000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/08. Wanna Get.mp3</location>
-            <title>Wanna Get</title>
-            <creator>Parov Stelar</creator>
-            <album>That Swing</album>
-            <duration>334000</duration>
-            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/17_paul_kalkbrenner_-_das_gezabel_de_luxe.mp3</location>
-            <title>Das Gezabel De Luxe</title>
-            <creator>Paul Kalkbrenner</creator>
-            <album>GUTEN TAG</album>
-            <duration>338000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Idealism/02 Zdarlight.mp3</location>
-            <title>Zdarlight</title>
-            <creator>Digitalism</creator>
-            <album>Idealism</album>
-            <duration>340000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/11. Black Block.mp3</location>
-            <title>Black Block</title>
-            <creator>Modeselektor</creator>
-            <album>Happy Birthday!</album>
-            <duration>341000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/06 - Therapy.flac</location>
-            <title>Therapy</title>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/07 - Gita.flac</location>
+            <title>Gita</title>
             <creator>Moderat</creator>
             <album>II</album>
-            <duration>345000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/07 Escape.mp3</location>
-            <title>Escape</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>346000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/01. Godspeed.mp3</location>
-            <title>Godspeed</title>
-            <creator>Modeselektor</creator>
-            <album>Happy Birthday!</album>
-            <duration>348000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/09 A bang in the void.mp3</location>
-            <title>A bang in the void</title>
-            <creator>Apparat</creator>
-            <album>The Devil's walk</album>
-            <duration>357000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/A1 - Blue Clouds[Dreamsounds.net].mp3</location>
-            <title>Blue Clouds</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>360000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/06_paul_kalkbrenner_-_das_gezabel.mp3</location>
-            <title>Das Gezabel</title>
-            <creator>Paul Kalkbrenner</creator>
-            <album>GUTEN TAG</album>
-            <duration>363000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/01 A New Error.mp3</location>
-            <title>A New Error</title>
-            <creator>Moderat</creator>
-            <album>Moderat</album>
-            <duration>367000</duration>
-            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Windowlicker/01 Windowlicker.mp3</location>
-            <title>Windowlicker</title>
-            <creator>Aphex Twin</creator>
-            <album>Windowlicker</album>
-            <duration>368000</duration>
+            <duration>262000</duration>
             <image>file:(embedded)</image>
         </track>
         <track>
@@ -843,44 +255,6 @@
             <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/D2 - This[Dreamsounds.net].mp3</location>
-            <title>This</title>
-            <creator>Modeselektor</creator>
-            <album>Monkeytown</album>
-            <duration>377000</duration>
-            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/05 - Original.mp3</location>
-            <title>Original</title>
-            <creator>Leftfield</creator>
-            <album>Leftism</album>
-            <duration>383000</duration>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/10 - Emotion.mp3</location>
-            <title>Emotion</title>
-            <creator>Daft Punk</creator>
-            <album>Human After All</album>
-            <duration>416000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Daft Punk/(1997) Daft Punk - Homework/07 - Around the World.mp3</location>
-            <title>Around the World</title>
-            <creator>Daft Punk</creator>
-            <album>Homework</album>
-            <duration>430000</duration>
-            <image>file:(embedded)</image>
-        </track>
-        <track>
-            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/07 - Space Shanty.mp3</location>
-            <title>Space Shanty</title>
-            <creator>Leftfield</creator>
-            <album>Leftism</album>
-            <duration>436000</duration>
-        </track>
-        <track>
             <location>file:///home/mike/Music/Daft Punk/(1997) Daft Punk - Homework/08 - Rollin' &amp; Scratchin'.mp3</location>
             <title>Rollin' &amp; Scratchin'</title>
             <creator>Daft Punk</creator>
@@ -889,11 +263,34 @@
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/02 - Afro-Left.mp3</location>
-            <title>Afro-Left</title>
-            <creator>Leftfield</creator>
-            <album>Leftism</album>
-            <duration>454000</duration>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/08 Violent Dreams.mp3</location>
+            <title>Violent Dreams</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (II)</album>
+            <duration>275000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/10. Vanished.mp3</location>
+            <title>Vanished</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (I)</album>
+            <duration>243000</duration>
+            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/08 Moonlight.mp3</location>
+            <title>Moonlight</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>172000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Windowlicker/01 Windowlicker.mp3</location>
+            <title>Windowlicker</title>
+            <creator>Aphex Twin</creator>
+            <album>Windowlicker</album>
+            <duration>368000</duration>
+            <image>file:(embedded)</image>
         </track>
         <track>
             <location>file:///home/mike/Music/Apparat - Arcadia (Telefon Tel Aviv Remix).mp3</location>
@@ -904,11 +301,175 @@
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Apparat - A Bang In The Void [Silinder Remix].mp3</location>
-            <title>A Bang In The Void [Silinder Remix]</title>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C1 - Berlin[Dreamsounds.net].mp3</location>
+            <title>Berlin</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>283000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/05 - Pale Flesh.mp3</location>
+            <title>Pale Flesh</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>179000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/02 - Bad Kingdom.flac</location>
+            <title>Bad Kingdom</title>
+            <creator>Moderat</creator>
+            <album>II</album>
+            <duration>262000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/10 - Damage Done.flac</location>
+            <title>Damage Done</title>
+            <creator>Moderat</creator>
+            <album>II</album>
+            <duration>326000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/17_paul_kalkbrenner_-_das_gezabel_de_luxe.mp3</location>
+            <title>Das Gezabel De Luxe</title>
+            <creator>Paul Kalkbrenner</creator>
+            <album>GUTEN TAG</album>
+            <duration>338000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/05 - Make Love.mp3</location>
+            <title>Make Love</title>
+            <creator>Daft Punk</creator>
+            <album>Human After All</album>
+            <duration>280000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/01. Godspeed.mp3</location>
+            <title>Godspeed</title>
+            <creator>Modeselektor</creator>
+            <album>Happy Birthday!</album>
+            <duration>348000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Disclosure - Settle (2013) [LAME-V0]/13 Confess To Me.mp3</location>
+            <title>Confess To Me</title>
+            <creator>Disclosure</creator>
+            <album>Settle</album>
+            <duration>251000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/04 - Let In The Light.flac</location>
+            <title>Let In The Light</title>
+            <creator>Moderat</creator>
+            <album>II</album>
+            <duration>255000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/10 Nr. 22.mp3</location>
+            <title>Nr. 22</title>
+            <creator>Moderat</creator>
+            <album>Moderat</album>
+            <duration>268000</duration>
+            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/03 Pulsewidth.mp3</location>
+            <title>Pulsewidth</title>
+            <creator>Aphex Twin</creator>
+            <album>Selected Ambient Works 85-92</album>
+            <duration>228000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/01 jynweythek ylow.mp3</location>
+            <title>jynweythek ylow</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>144000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/01 Sweet unrest.mp3</location>
+            <title>Sweet unrest</title>
             <creator>Apparat</creator>
-            <album>Soundcloud</album>
-            <duration>467000</duration>
+            <album>The Devil's walk</album>
+            <duration>213000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/08 Just Gazin'.mp3</location>
+            <title>Just Gazin'</title>
+            <creator>Digitalism</creator>
+            <album>I Love You, Dude</album>
+            <duration>206000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/09 avril 14th.mp3</location>
+            <title>avril 14th</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>126000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/05-solo_city-dgn.mp3</location>
+            <title>Solo City</title>
+            <creator>Booka Shade</creator>
+            <album>The Sun And The Neon Light</album>
+            <duration>274000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/09 - Technologic.mp3</location>
+            <title>Technologic</title>
+            <creator>Daft Punk</creator>
+            <album>Human After All</album>
+            <duration>284000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/08 The Party.mp3</location>
+            <title>The Party</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>243000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/06 - Therapy.flac</location>
+            <title>Therapy</title>
+            <creator>Moderat</creator>
+            <album>II</album>
+            <duration>345000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/01 - Plague.mp3</location>
+            <title>Plague</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>295000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/07. Faith (feat. Odette Dimaio).mp3</location>
+            <title>Faith (feat. Odette Dimaio)</title>
+            <creator>Parov Stelar</creator>
+            <album>That Swing</album>
+            <duration>227000</duration>
+            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/15 Echoes.mp3</location>
+            <title>Echoes</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>219000</duration>
         </track>
         <track>
             <location>file:///home/mike/Music/Mitis Old Discography/Colors with Contradiction.mp3</location>
@@ -917,12 +478,11 @@
             <duration>485000</duration>
         </track>
         <track>
-            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/10 mt saint michel mix+st michael.mp3</location>
-            <title>mt saint michel mix+st michael</title>
-            <creator>Aphex Twin</creator>
-            <album>Drukqs</album>
-            <duration>490000</duration>
-            <image>file:(embedded)</image>
+            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/11. Black Block.mp3</location>
+            <title>Black Block</title>
+            <creator>Modeselektor</creator>
+            <album>Happy Birthday!</album>
+            <duration>341000</duration>
         </track>
         <track>
             <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/02 Tha.mp3</location>
@@ -933,12 +493,1529 @@
             <image>file:(embedded)</image>
         </track>
         <track>
-            <location>file:///home/mike/Music/Moderat - II (2013) [FLAC]/05 - Milk.flac</location>
-            <title>Milk</title>
+            <location>file:///home/mike/Music/Idealism/02 Zdarlight.mp3</location>
+            <title>Zdarlight</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>340000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/08 - Transgender.mp3</location>
+            <title>Transgender</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>184000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/10 The Pulse.mp3</location>
+            <title>The Pulse</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>259000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/02 - Kerosene.mp3</location>
+            <title>Kerosene</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>192000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/10 mt saint michel mix+st michael.mp3</location>
+            <title>mt saint michel mix+st michael</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>490000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/12 One Minute To Midnight.mp3</location>
+            <title>One Minute To Midnight</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>220000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/10 - Emotion.mp3</location>
+            <title>Emotion</title>
+            <creator>Daft Punk</creator>
+            <album>Human After All</album>
+            <duration>416000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/05 Candil de la calle.mp3</location>
+            <title>Candil de la calle</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>276000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/02. Love (radio edit) .mp3</location>
+            <title>Love (radio edit)</title>
+            <creator>Parov Stelar</creator>
+            <album>That Swing</album>
+            <duration>205000</duration>
+            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/10 Your house is my world.mp3</location>
+            <title>Your house is my world</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>235000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/04 omgyjya switch7.mp3</location>
+            <title>omgyjya switch7</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>293000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - (III) (2012) (320)/04 - Affection.mp3</location>
+            <title>Affection</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (III)</album>
+            <duration>157000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Bloc Party-Intimacy/05 Trojan Horse.mp3</location>
+            <title>Trojan Horse</title>
+            <creator>Bloc Party</creator>
+            <album>Intimacy</album>
+            <duration>212000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/11 Homezone.mp3</location>
+            <title>Homezone</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>128000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Leftfield - Leftism (320kbps)/07 - Space Shanty.mp3</location>
+            <title>Space Shanty</title>
+            <creator>Leftfield</creator>
+            <album>Leftism</album>
+            <duration>436000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Disclosure - Settle (2013) [LAME-V0]/05 White Noise.mp3</location>
+            <title>White Noise</title>
+            <creator>Disclosure</creator>
+            <album>Settle</album>
+            <duration>278000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/14 Jupiter Room.mp3</location>
+            <title>Jupiter Room</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>303000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/02 Song of Los.mp3</location>
+            <title>Song of Los</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>272000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Idealism/01 Magnets.mp3</location>
+            <title>Magnets</title>
+            <creator>Digitalism</creator>
+            <album>Idealism</album>
+            <duration>230000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/03 D.A.N.C.E.mp3</location>
+            <title>D.A.N.C.E</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>242000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/06. Spider (radio edit).mp3</location>
+            <title>Spider (radio edit)</title>
+            <creator>Parov Stelar</creator>
+            <album>That Swing</album>
+            <duration>220000</duration>
+            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/D2 - This[Dreamsounds.net].mp3</location>
+            <title>This</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>377000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Digitalism - I Love You, Dude (2011)/07 Antibiotics.mp3</location>
+            <title>Antibiotics</title>
+            <creator>Digitalism</creator>
+            <album>I Love You, Dude</album>
+            <duration>238000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Parov Stelar - That Swing (2009)/08. Wanna Get.mp3</location>
+            <title>Wanna Get</title>
+            <creator>Parov Stelar</creator>
+            <album>That Swing</album>
+            <duration>334000</duration>
+            <image>file:///home/mike/Music/Parov Stelar - That Swing (2009)/Parov Stelar - That Swing (2009) cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat - A Bang In The Void [Silinder Remix].mp3</location>
+            <title>A Bang In The Void [Silinder Remix]</title>
+            <creator>Apparat</creator>
+            <album>Soundcloud</album>
+            <duration>467000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/01 A New Error.mp3</location>
+            <title>A New Error</title>
             <creator>Moderat</creator>
-            <album>II</album>
-            <duration>604000</duration>
+            <album>Moderat</album>
+            <duration>367000</duration>
+            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/14 hy a scullyas lyf a dhagrow.mp3</location>
+            <title>hy a scullyas lyf a dhagrow</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>135000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/01. Untrust Us.mp3</location>
+            <title>Untrust Us</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (I)</album>
+            <duration>186000</duration>
+            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/10 Stress.mp3</location>
+            <title>Stress</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>298000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/07 Heliosphan.mp3</location>
+            <title>Heliosphan</title>
+            <creator>Aphex Twin</creator>
+            <album>Selected Ambient Works 85-92</album>
+            <duration>294000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Unreleased Medical Journal/Casio Daisy.mp3</location>
+            <title>Casio Daisy</title>
+            <creator>Gold Panda</creator>
+            <album>Unreleased Medical Journal</album>
+            <duration>168000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Booka Shade/Movements/12-booka_shade-in_white_rooms-emf.mp3</location>
+            <title>In White Rooms</title>
+            <creator>Booka Shade</creator>
+            <album>Movements</album>
+            <duration>325000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/05 3 Minutes Of.mp3</location>
+            <title>3 Minutes Of</title>
+            <creator>Moderat</creator>
+            <album>Moderat</album>
+            <duration>197000</duration>
+            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/02. 2000007 (Feat. TTC).mp3</location>
+            <title>2000007 (Feat. TTC)</title>
+            <creator>Modeselektor</creator>
+            <album>Happy Birthday!</album>
+            <duration>251000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/05 Phantom.mp3</location>
+            <title>Phantom</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>262000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Justice - Justice [V0]/02 Let There Be Light.mp3</location>
+            <title>Let There Be Light</title>
+            <creator>Justice</creator>
+            <album>Justice</album>
+            <duration>295000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/13 Intimate.mp3</location>
+            <title>Intimate</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (II)</album>
+            <duration>285000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/04 Baptism.mp3</location>
+            <title>Baptism</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (II)</album>
+            <duration>252000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/08 Porc #1.mp3</location>
+            <title>Porc #1</title>
+            <creator>Moderat</creator>
+            <album>Moderat</album>
+            <duration>160000</duration>
+            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/A1 - Blue Clouds[Dreamsounds.net].mp3</location>
+            <title>Blue Clouds</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>360000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C2 - Grillwalker[Dreamsounds.net].mp3</location>
+            <title>Grillwalker</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>242000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/02 Rusty Nails.mp3</location>
+            <title>Rusty Nails</title>
+            <creator>Moderat</creator>
+            <album>Moderat</album>
+            <duration>272000</duration>
+            <image>file:///home/mike/Music/Moderat - Modeselektor Apparat - 320kBps/cover.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/12. Love and Caring.mp3</location>
+            <title>Love and Caring</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (I)</album>
+            <duration>138000</duration>
+            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/07 Escape.mp3</location>
+            <title>Escape</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>346000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Daft Punk/(2005) Daft Punk - Human After All/08 - Television Rules the Nation.mp3</location>
+            <title>Television Rules the Nation</title>
+            <creator>Daft Punk</creator>
+            <album>Human After All</album>
+            <duration>288000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/C3 - Green Light Go[Dreamsounds.net].mp3</location>
+            <title>Green Light Go</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>285000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/04. Let Your Love Grow (Feat. Paul St. Hillaire).mp3</location>
+            <title>Let Your Love Grow (Feat. Paul St. Hillaire)</title>
+            <creator>Modeselektor</creator>
+            <album>Happy Birthday!</album>
+            <duration>325000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Paul_Kalkbrenner_-_GUTEN_TAG-2012-MOD/06_paul_kalkbrenner_-_das_gezabel.mp3</location>
+            <title>Das Gezabel</title>
+            <creator>Paul Kalkbrenner</creator>
+            <album>GUTEN TAG</album>
+            <duration>363000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Selected Ambient Works 85-92/01 Xtal.mp3</location>
+            <title>Xtal</title>
+            <creator>Aphex Twin</creator>
+            <album>Selected Ambient Works 85-92</album>
+            <duration>294000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/B1 - Evil Twin[Dreamsounds.net].mp3</location>
+            <title>Evil Twin</title>
+            <creator>Modeselektor</creator>
+            <album>Monkeytown</album>
+            <duration>239000</duration>
+            <image>file:///home/mike/Music/Modeselektor - Monkeytown (2011) [320kbps]/Modeselektor - Monkeytown[Dreamsounds.net].jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [Promo V0]/14 I Am Made of Chalk.mp3</location>
+            <title>I Am Made of Chalk</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (II)</album>
+            <duration>189000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Booka Shade/The Sun And The Neon Light (Advance) V2/08-the_sun_and_the_neon_light-dgn.mp3</location>
+            <title>The Sun And The Neon Light</title>
+            <creator>Booka Shade</creator>
+            <album>The Sun And The Neon Light</album>
+            <duration>269000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Bloc Party-Intimacy/09 Better Than Heaven.mp3</location>
+            <title>Better Than Heaven</title>
+            <creator>Bloc Party</creator>
+            <album>Intimacy</album>
+            <duration>261000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/06 gwely mernans.mp3</location>
+            <title>gwely mernans</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>308000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/02. Alice Practice.mp3</location>
+            <title>Alice Practice</title>
+            <creator>Crystal Castles</creator>
+            <album>Crystal Castles (I)</album>
+            <duration>161000</duration>
+            <image>file:///home/mike/Music/Crystal Castles - Crystal Castles [2008]/folder.jpeg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/04 Goodbye.mp3</location>
+            <title>Goodbye</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>269000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Apparat.TheDevilsWalk.2011/03 Black water.mp3</location>
+            <title>Black water</title>
+            <creator>Apparat</creator>
+            <album>The Devil's walk</album>
+            <duration>293000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Modeselektor - Happy Birthday!/17. Déboutonner (Feat. Siriusmo).mp3</location>
+            <title>Déboutonner (Feat. Siriusmo)</title>
+            <creator>Modeselektor</creator>
+            <album>Happy Birthday!</album>
+            <duration>259000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Mount Kimbie - [2013] Cold Spring Fault Less Youth [MP3 - 320]/1-1.01. Home Recording.mp3</location>
+            <title>Home Recording</title>
+            <creator>Mount Kimbie</creator>
+            <album>Cold Spring Fault Less Youth</album>
+            <duration>277000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/01 Brianstorm.mp3</location>
+            <title>Brianstorm</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>170000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/02 Teddy Picker.mp3</location>
+            <title>Teddy Picker</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>163000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/03 D Is For Dangerous.mp3</location>
+            <title>D Is For Dangerous</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>136000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/04 Balaclava.mp3</location>
+            <title>Balaclava</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>169000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/05 Fluorescent Adolescent.mp3</location>
+            <title>Fluorescent Adolescent</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>177000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/06 Only Ones Who Know.mp3</location>
+            <title>Only Ones Who Know</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>182000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/07 Do Me A Favour.mp3</location>
+            <title>Do Me A Favour</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>207000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/08 This House Is A Circus.mp3</location>
+            <title>This House Is A Circus</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>189000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/09 If You Were There, Beware.mp3</location>
+            <title>If You Were There, Beware</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>274000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/10 The Bad Thing.mp3</location>
+            <title>The Bad Thing</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>143000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/11 Old Yellow Bricks.mp3</location>
+            <title>Old Yellow Bricks</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>191000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Favourite Worst Nightmare/12 505.mp3</location>
+            <title>505</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Favourite Worst Nightmare</album>
+            <duration>253000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/01-arctic_monkeys-my_propeller.mp3</location>
+            <title>My Propeller</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>207000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/02-arctic_monkeys-crying_lightning.mp3</location>
+            <title>Crying Lightning</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>223000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/03-arctic_monkeys-dangerous_animals.mp3</location>
+            <title>Dangerous Animals</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>210000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/04-arctic_monkeys-secret_door.mp3</location>
+            <title>Secret Door</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>223000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/05-arctic_monkeys-potion_approaching.mp3</location>
+            <title>Potion Approaching</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>212000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/06-arctic_monkeys-fire_and_the_thud.mp3</location>
+            <title>Fire And The Thud</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>237000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/07-arctic_monkeys-cornerstone.mp3</location>
+            <title>Cornerstone</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>198000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/08-arctic_monkeys-dance_little_liar.mp3</location>
+            <title>Dance Little Liar</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>283000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/09-arctic_monkeys-pretty_visitors.mp3</location>
+            <title>Pretty Visitors</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>220000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/10-arctic_monkeys-the_jewellers_hand.mp3</location>
+            <title>The Jeweller's Hand</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>342000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/11-arctic_monkeys-i_havent_got_my_strange_(bonus_track).mp3</location>
+            <title>I Haven't Got My Strange (Bonus Track)</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>89000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic_Monkeys-Humbug-(Proper)-2009-SiRE/12-arctic_monkeys-red_right_hand_(nick_cave_and_the_bad_seeds_cover)_(bonus_track).mp3</location>
+            <title>Red Right Hand (Nick Cave And The Bad Seeds Cover) (Bonus Track)</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Humbug</album>
+            <duration>259000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/01 She's Thunderstorms.mp3</location>
+            <title>She's Thunderstorms</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>235000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/02 Black Treacle.mp3</location>
+            <title>Black Treacle</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>215000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/03 Brick By Brick.mp3</location>
+            <title>Brick By Brick</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>179000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/04 The Hellcat Spangled Shalala.mp3</location>
+            <title>The Hellcat Spangled Shalalala</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>180000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/05 Don't Sit Down 'Cause I've Moved Your Chair.mp3</location>
+            <title>Don't Sit Down 'Cause I've Moved Your Chair</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>184000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/06 Library Pictures.mp3</location>
+            <title>Library Pictures</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>142000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/07 All My Own Stunts.mp3</location>
+            <title>All My Own Stunts</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>232000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/08 Reckless Serendade.mp3</location>
+            <title>Reckless Serenade</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>162000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/09 Piledriver Waltz.mp3</location>
+            <title>Piledriver Waltz</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>203000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/10 Love Is A Laserquest.mp3</location>
+            <title>Love Is A Laserquest</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>191000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/11 Suck It And See.mp3</location>
+            <title>Suck It And See</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>226000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Suck It And See/12 That's Where You're Wrong.mp3</location>
+            <title>That's Where You're Wrong</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Suck It And See</album>
+            <duration>256000</duration>
+            <image>file:///home/mike/Music/Arctic Monkeys - Suck It And See/Suck It And See.jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/01 The View From The Afternoon.mp3</location>
+            <title>The View From The Afternoon</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>218000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/02 I Bet You Look Good On The Dancefloor.mp3</location>
+            <title>I Bet You Look Good On The Dancefloor</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>173000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/03 Fake Tales Of San Fransisco.mp3</location>
+            <title>Fake Tales Of San Fransisco</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>177000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/04 Dancing Shoes.mp3</location>
+            <title>Dancing Shoes</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>141000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/05 You Probably Couldn't See For The Lights But You Were Staring Straight At Me.mp3</location>
+            <title>You Probably Couldn't See For The Lights But You Were Staring Straight At Me</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>130000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/06 Still Take You Home.mp3</location>
+            <title>Still Take You Home</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>173000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/07 Riot Van.mp3</location>
+            <title>Riot Van</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>134000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/08 Red Light Indicates Doors Are Secured.mp3</location>
+            <title>Red Light Indicates Doors Are Secured</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>143000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/09 Mardy Bum.mp3</location>
+            <title>Mardy Bum</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>175000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/10 Perhaps Vampires Is a Bit Strong But....mp3</location>
+            <title>Perhaps Vampires Is a Bit Strong But...</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>268000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/11 When The Sun Goes Down.mp3</location>
+            <title>When The Sun Goes Down</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>200000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/12 From The Ritz To The Rubble.mp3</location>
+            <title>From The Ritz To The Rubble</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>193000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Whatever People Say I Am, That's What I'm Not/13 A Certain Romance.mp3</location>
+            <title>A Certain Romance</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Whatever People Say I Am, That's What I'm Not</album>
+            <duration>331000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Arctic Monkeys - Why'd You Only Call Me When You're High_.mp3</location>
+            <title>Why'd You Only Call Me When You're High?</title>
+            <creator>Arctic Monkeys</creator>
+            <album>Why'd You Only Call Me When You're High? - Single</album>
+            <duration>161000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/01 - Never Mind.mp3</location>
+            <title>Never Mind</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>366000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/02 - Nothing to Say.mp3</location>
+            <title>Nothing to Say</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>389000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/03 - Send Me an Angel.mp3</location>
+            <title>Send Me an Angel</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>446000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/04 - U R So Fucked.mp3</location>
+            <title>U R So Fucked</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>282000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/05 - The Rat.mp3</location>
+            <title>The Rat</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>464000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/06 - Nation of Wusses.mp3</location>
+            <title>Nation of Wusses</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>423000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/07 - Wanted To.mp3</location>
+            <title>Wanted To</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>205000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/08 - Serve My Thirst.mp3</location>
+            <title>Serve My Thirst</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>407000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/09 - I Shine.mp3</location>
+            <title>I Shine</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>344000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/10 - Drum n' Bassa.mp3</location>
+            <title>Drum n' Bassa</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>433000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/11 - The Pretender.mp3</location>
+            <title>The Pretender</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>395000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Army of Mushrooms (2012) [V0]/12 - The Messenger 2012.mp3</location>
+            <title>The Messenger 2012</title>
+            <creator>Infected Mushroom</creator>
+            <album>Army of Mushrooms</album>
+            <duration>638000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/01 - Poquito Mas.mp3</location>
+            <title>Poquito Mas</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>219000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/02 - Sa'eed.mp3</location>
+            <title>Sa'eed</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>423000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/03 - End of the Road.mp3</location>
+            <title>End of the Road</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>407000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/04 - Smashing the Opponent (feat. Jonathan Davis).mp3</location>
+            <title>Smashing the Opponent (feat. Jonathan Davis)</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>250000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/05 - Can't Stop.mp3</location>
+            <title>Can't Stop</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>443000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/06 - Herbert the Pervert.mp3</location>
+            <title>Herbert the Pervert</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>437000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/07 - Killing Time (feat. Perry Ferrell).mp3</location>
+            <title>Killing Time (feat. Perry Ferrell)</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>184000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/08 - Project 100.mp3</location>
+            <title>Project 100</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>578000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/09 - Franks.mp3</location>
+            <title>Franks</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>485000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/10 - Slowly.mp3</location>
+            <title>Slowly</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>540000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/11 - The Legend of the Black Shawarma.mp3</location>
+            <title>The Legend of the Black Shawarma</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>431000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Infected Mushroom - Legend of the Black Shawarma [V0]/12 - Riders on the Storm (Infected Mushroom Remix).mp3</location>
+            <title>Riders on the Storm (Infected Mushroom Remix)</title>
+            <creator>Infected Mushroom</creator>
+            <album>Legend of the Black Shawarma</album>
+            <duration>269000</duration>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/01 - Becoming Insane.flac</location>
+            <title>Becoming Insane</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>444000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/02 - Artillery.flac</location>
+            <title>Artillery</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>268000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/03 - Vicious Delicious.flac</location>
+            <title>Vicious Delicious</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>451000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/04 - Heavy Weight.flac</location>
+            <title>Heavy Weight</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>520000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/05 - Suliman.flac</location>
+            <title>Suliman</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>371000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/06 - Forgive Me.flac</location>
+            <title>Forgive Me</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>216000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/07 - Special Place.flac</location>
+            <title>Special Place</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>417000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/08 - In Front Of Me.flac</location>
+            <title>In Front Of Me</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>275000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/09 - Eat It Raw.flac</location>
+            <title>Eat It Raw</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>390000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/10 - Change The Formality.flac</location>
+            <title>Change The Formality</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>466000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/11 - Before.flac</location>
+            <title>Before</title>
+            <creator>Infected Mushroom</creator>
+            <album>Vicious Delicious</album>
+            <duration>417000</duration>
+            <image>file:///home/mike/Music/(2007) Infected Mushroom - Vicious Delicious/00 - Vicious Delicious (Front Cover).jpg</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/01 Acrid Avid Jam Shred.mp3</location>
+            <title>Acrid Avid Jam Shred</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>458000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/02 The Waxen Pith.mp3</location>
+            <title>The Waxen Pith</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>289000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/03 Wax The Nip.mp3</location>
+            <title>Wax The Nip</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>258000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/04 Icct Hedral (Edit).mp3</location>
+            <title>Icct Hedral (Edit)</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>367000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/05 Ventolin (Video Version).mp3</location>
+            <title>Ventolin (Video Version)</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>269000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/06 Come On You Slags!.mp3</location>
+            <title>Come On You Slags!</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>344000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/07 Start As You Mean To Go On.mp3</location>
+            <title>Start As You Mean To Go On</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>365000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/08 Wet Tip Hen Ax.mp3</location>
+            <title>Wet Tip Hen Ax</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>317000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/09 Mookid.mp3</location>
+            <title>Mookid</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>231000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/10 Alberto Balsalm.mp3</location>
+            <title>Alberto Balsalm</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>310000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/11 Cow Cud Is A Twin.mp3</location>
+            <title>Cow Cud Is A Twin</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>333000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/_..I Care Because You Do/12 Next Heap With.mp3</location>
+            <title>Next Heap With</title>
+            <creator>Aphex Twin</creator>
+            <album>...I Care Because You Do</album>
+            <duration>283000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/01 4.mp3</location>
+            <title>4</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>216000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/02 Cornish Acid.mp3</location>
+            <title>Cornish Acid</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>134000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/03 Peek 824545201.mp3</location>
+            <title>Peek 824545201</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>185000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/04 Fingerbib.mp3</location>
+            <title>Fingerbib</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>228000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/05 Corn Mouth.mp3</location>
+            <title>Corn Mouth</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>153000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/06 To Cure A Weakling Child.mp3</location>
+            <title>To Cure A Weakling Child</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>243000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/07 Goon Gumpas.mp3</location>
+            <title>Goon Gumpas</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>122000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/08 Yellow Calx.mp3</location>
+            <title>Yellow Calx</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>182000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/10 Logon Rock Witch.mp3</location>
+            <title>Logon Rock Witch</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>212000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/11 Milk Man.mp3</location>
+            <title>Milk Man</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>249000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/12 Inkey$.mp3</location>
+            <title>Inkey$</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>84000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Richard D. James Album/14 Beetles.mp3</location>
+            <title>Beetles</title>
+            <creator>Aphex Twin</creator>
+            <album>Richard D. James Album</album>
+            <duration>91000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/01 jynweythek ylow.mp3</location>
+            <title>jynweythek ylow</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>144000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/02 vordhosbn.mp3</location>
+            <title>vordhosbn</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>291000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/03 kladfvgbung micshk.mp3</location>
+            <title>kladfvgbung micshk</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>127000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/04 omgyjya switch7.mp3</location>
+            <title>omgyjya switch7</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>293000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/05 strotha tynhe.mp3</location>
+            <title>strotha tynhe</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>132000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/06 gwely mernans.mp3</location>
+            <title>gwely mernans</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>308000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/07 bbydhyonchord.mp3</location>
+            <title>bbydhyonchord</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>153000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/08 cock-ver10.mp3</location>
+            <title>cock-ver10</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>318000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/09 avril 14th.mp3</location>
+            <title>avril 14th</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>126000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/10 mt saint michel mix+st michael.mp3</location>
+            <title>mt saint michel mix+st michael</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>490000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/11 gwarek2.mp3</location>
+            <title>gwarek2</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>407000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/12 orban eq trx4.mp3</location>
+            <title>orban eq trx4</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>95000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/13 aussois.mp3</location>
+            <title>aussois</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>13000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/14 hy a scullyas lyf a dhagrow.mp3</location>
+            <title>hy a scullyas lyf a dhagrow</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>135000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/15 kesson daslef.mp3</location>
+            <title>kesson daslef</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>81000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/01 54 cymru beats.mp3</location>
+            <title>54 cymru beats</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>367000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/02 btoum roumada.mp3</location>
+            <title>btoum roumada</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>118000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/03 lornaderek.mp3</location>
+            <title>lornaderek</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>31000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/04 plenty harmonium.mp3</location>
+            <title>plenty harmonium</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>88000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/05 meltphace 6.mp3</location>
+            <title>meltphace 6</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>384000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/06 bit4.mp3</location>
+            <title>bit4</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>25000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/07 prep gwarlek 3b.mp3</location>
+            <title>prep gwarlek 3b</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>79000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/08 father.mp3</location>
+            <title>father</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>57000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/09 taking control.mp3</location>
+            <title>taking control</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>434000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/10 petiatil cx htdui.mp3</location>
+            <title>petiatil cx htdui</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>131000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/11 ruglen holon.mp3</location>
+            <title>ruglen holon</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>109000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/12 afx237 v7.mp3</location>
+            <title>afx237 v7</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>263000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/13 ziggomatic v17.mp3</location>
+            <title>ziggomatic v17</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>515000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/14 beskhu3epnm.mp3</location>
+            <title>beskhu3epnm</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>130000</duration>
+            <image>file:(embedded)</image>
+        </track>
+        <track>
+            <location>file:///home/mike/Music/Richard D James/Aphex Twin/Drukqs/15 nanou2.mp3</location>
+            <title>nanou2</title>
+            <creator>Aphex Twin</creator>
+            <album>Drukqs</album>
+            <duration>205000</duration>
             <image>file:(embedded)</image>
         </track>
     </trackList>
 </playlist>
+
