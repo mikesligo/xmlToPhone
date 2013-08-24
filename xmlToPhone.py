@@ -10,6 +10,7 @@ print "XML File is " + xml_file
 
 music_dir = '/home/mike/Music'
 url_locs = []
+dir_locs = []
 with open (xml_file, 'r') as read_file:
     for line in read_file:
         search = re.search('<location>file://'+music_dir+'(.*)</location>', line)
@@ -23,7 +24,9 @@ os.makedirs(temporary_music_dir)
 
 print "Creating temporary directory structure..."
 for file_loc in url_locs:
-    new_song_dir_loc = path.abspath(temporary_music_dir + file_loc[:file_loc.rfind('/')]).replace('&amp;','&')
+    album_path = file_loc[:file_loc.rfind('/')].replace('&amp;','&')
+    dir_locs.append(album_path)
+    new_song_dir_loc = path.abspath(temporary_music_dir + album_path)
     if not path.exists(new_song_dir_loc):
         os.makedirs(new_song_dir_loc)
 "...done"
@@ -36,6 +39,6 @@ print "...done"
 
 number_to_copy = len(url_locs)
 print "Copying " + str(number_to_copy) + " files"
-for idx, file_loc in enumerate(url_locs):
-    print "(" + str(idx+1) + "/" + str(number_to_copy) + ")" + "\t\tPushing " + file_loc + "..."
-    call(["adb","push", music_dir+file_loc,"/sdcard/Music"])
+for idx, (file_loc, dir_loc) in enumerate(zip(url_locs,dir_locs)):
+    print "(" + str(idx+1) + "/" + str(number_to_copy) + ")" + "\t\tPushing " + music_dir+file_loc + "..."
+    call(["adb","push", music_dir+file_loc,"/sdcard/Music"+dir_loc])
